@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\DelistedGameLoader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3071CEAA-7CF9-4AF5-83B4-F37A056819BD}|DelistedGameLoader\\DelistedGameLoader.csproj|c:\\users\\asus\\source\\repos\\delistedgameloader\\delistedgameloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3071CEAA-7CF9-4AF5-83B4-F37A056819BD}|DelistedGameLoader\\DelistedGameLoader.csproj|solutionrelative:delistedgameloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DelistedGameLoader\\DelistedGameLoader\\Program.cs",
+              "RelativeDocumentMoniker": "DelistedGameLoader\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DelistedGameLoader\\DelistedGameLoader\\Program.cs",
+              "RelativeToolTip": "DelistedGameLoader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:37:40.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

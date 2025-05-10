@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\DelistedGameLoader\DelistedGameLoader\bin\Debug\DelistedGameLoader.exe.config
+C:\Users\ASUS\source\repos\DelistedGameLoader\DelistedGameLoader\bin\Debug\DelistedGameLoader.exe
+C:\Users\ASUS\source\repos\DelistedGameLoader\DelistedGameLoader\bin\Debug\DelistedGameLoader.pdb
+C:\Users\ASUS\source\repos\DelistedGameLoader\DelistedGameLoader\obj\Debug\DelistedGameLoader.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DelistedGameLoader\DelistedGameLoader\obj\Debug\DelistedGameLoader.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DelistedGameLoader\DelistedGameLoader\obj\Debug\DelistedGameLoader.exe
+C:\Users\ASUS\source\repos\DelistedGameLoader\DelistedGameLoader\obj\Debug\DelistedGameLoader.pdb

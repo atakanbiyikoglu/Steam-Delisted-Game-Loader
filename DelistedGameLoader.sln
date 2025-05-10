@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelistedGameLoader", "DelistedGameLoader\DelistedGameLoader.csproj", "{3071CEAA-7CF9-4AF5-83B4-F37A056819BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3071CEAA-7CF9-4AF5-83B4-F37A056819BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3071CEAA-7CF9-4AF5-83B4-F37A056819BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3071CEAA-7CF9-4AF5-83B4-F37A056819BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3071CEAA-7CF9-4AF5-83B4-F37A056819BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {423C85BB-7E36-489A-9EAF-B02B951B5749}
+	EndGlobalSection
+EndGlobal
